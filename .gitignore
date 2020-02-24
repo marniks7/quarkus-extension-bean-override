@@ -1,0 +1,4 @@
+# Project exclude paths
+/integration-tests/my-ext/target/
+/my-ext/deployment/target/
+/my-ext/runtime/target/
