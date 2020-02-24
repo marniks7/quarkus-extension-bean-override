@@ -1,4 +1,18 @@
 # Project exclude paths
-/integration-tests/my-ext/target/
-/my-ext/deployment/target/
-/my-ext/runtime/target/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+**/target/
